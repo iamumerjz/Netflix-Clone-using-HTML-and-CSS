@@ -1,4 +1,6 @@
 # Netflix-Clone-using-HTML-and-CSS 
+THIS WAS MADE JUST FOR LEARNING AND EDUCATIONAL PURPOSE ONLY.
+
 Simple Netflix clone using HTML and CSS
 
 Live Demo: https://net-flix-clone-html-css-iamumerjz.netlify.app/
